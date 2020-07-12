@@ -5,11 +5,9 @@ I'm Shakirul Hasan Khan, a Software Engineering student at SUST.
 * __Kaggle Contests__: Learning and testing my Deep Learning knowledge on kaggle
 * __CodeHub__: An modern online judge
 * __Monopoly__: A board game
-* __A Secret Pet Project__
 
 #### 🌱 Currently learning:
 * __Deep Learning__: From Coursera and some other courses
-* __Tensorflow__: Doing the Tensorflow in practice course on Coursera
 
 #### 💬 I can help you on:
 * Javascript
