@@ -14,12 +14,12 @@ I'm Shakirul Hasan Khan, a Software Engineering student at SUST.
 #### 📸 I love to do:
 * Photography, Competetive Programming, Travelling
 
+#### 📝 My current status:
+![My Current Status](https://github-readme-stats.vercel.app/api?username=KhanShaheb34&show_icons=true&hide_border=true&hide_rank=true)
+
 #### 📫 I'm also available in:
   [<img alt="LinkedIn" src="https://raw.githubusercontent.com/KhanShaheb34/KhanShaheb34/master//icons/010-linkedin.svg" height="32" width="32" />](https://www.linkedin.com/in/shakirulhasan/)
 [<img alt="Instagram" src="https://raw.githubusercontent.com/KhanShaheb34/KhanShaheb34/master//icons/011-instagram.svg" height="32" width="32" />](https://www.instagram.com/_khanshaheb/)
 [<img alt="Facebook" src="https://raw.githubusercontent.com/KhanShaheb34/KhanShaheb34/master//icons/001-facebook.svg" height="32" width="32" />](https://facebook.com/khanshaheb34)
 [<img alt="Messenger" src="https://raw.githubusercontent.com/KhanShaheb34/KhanShaheb34/master//icons/012-messenger.svg" height="32" width="32" />](https://m.me/khanshaheb34)
 [<img alt="Twitter" src="https://raw.githubusercontent.com/KhanShaheb34/KhanShaheb34/master//icons/013-twitter.svg" height="32" width="32" />](https://twitter.com/khanshaheb34)
-
-#### 📝 My current status:
-![My Current Status](https://github-readme-stats.vercel.app/api?username=KhanShaheb34&show_icons=true&hide_border=true&hide_rank=true)
