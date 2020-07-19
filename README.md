@@ -14,8 +14,7 @@ I'm Shakirul Hasan Khan, a Software Engineering student at SUST.
 #### 📸 I love to do:
 * Photography, Competetive Programming, Travelling
 
-#### 📝 My current status:
-![My Current Status](https://github-readme-stats.vercel.app/api?username=KhanShaheb34&show_icons=true&hide_border=true&hide_rank=true)
+![My Current Status](https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhanShaheb34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 #### 📫 I'm also available in:
   [<img alt="LinkedIn" src="https://raw.githubusercontent.com/KhanShaheb34/KhanShaheb34/master//icons/010-linkedin.svg" height="32" width="32" />](https://www.linkedin.com/in/shakirulhasan/)
