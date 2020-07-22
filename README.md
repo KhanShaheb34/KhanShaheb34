@@ -1,7 +1,6 @@
 ### 👋 Hi there, I'm Shakirul Hasan Khan
 A 3rd Year Software Engineering student at SUST.
 
-***
 [![LinkedIn Connect](https://img.shields.io/badge/%20-ShakirulHasan-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shakirulhasan/) 
 [![Facebook Follow](https://img.shields.io/badge/%20-KhanShaheb34-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/khanshaheb34) 
 [![Instaagram Follow](https://img.shields.io/badge/%20-__KhanShaheb-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_khanshaheb/) 
