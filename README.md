@@ -1,4 +1,4 @@
-![👋 Hi there, I'm Shakirul Hasan Khan. A Software Engineering Student at SUST](https://github.com/KhanShaheb34/KhanShaheb34/raw/master/greetings.svg)
+![👋 Hi there, I'm Shakirul Hasan Khan. A Software Engineering Student at SUST](https://github.com/KhanShaheb34/KhanShaheb34/raw/master/greeting.svg)
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-ShakirulHasan-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/shakirulhasan/)
 [![Facebook Follow](https://img.shields.io/badge/%20-KhanShaheb34-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/khanshaheb34)
