@@ -24,3 +24,6 @@
 #### 📸 I love to do:
 
 - Photography, Competetive Programming, Travelling
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
