@@ -10,8 +10,8 @@
 
 #### 🔭 I'm currently working on:
 
-- **CodeHub**: An modern online judge
-- **Monopoly**: A board game
+- **CodeHub**: A modern online judge
+- **EasyBlog**: An easy blogging solution
 
 #### 🌱 Currently learning:
 
