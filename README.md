@@ -10,12 +10,12 @@
 
 #### 🔭 I'm currently working on:
 
-- **CodeHub**: A modern online judge
-- **EasyBlog**: An easy blogging solution
+- A research on Bangla NLP
+- CodeHub: A modern online judge
 
 #### 🌱 Currently learning:
 
-- **Deep Learning**: From Coursera and some other sources
+- Deep Learning, NLP
 
 #### 💬 I can help you with:
 
