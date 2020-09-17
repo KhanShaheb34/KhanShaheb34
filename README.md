@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/badge/%20-@__KhanShaheb-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/_khanshaheb)
 [![Email Address](https://img.shields.io/badge/%20-shakirul34@student.sust.edu-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
 
-[<img align="right" width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhanShaheb34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>](https://github.com/KhanShaheb34/)
+[<img align="right" width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhanShaheb34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>](http://khanshaheb.me/)
 
 #### 🔭 I'm currently working on:
 
@@ -17,6 +17,7 @@
 #### 🌱 Currently learning:
 
 - Deep Learning, NLP
+- Laravel
 
 #### 💬 I can help you with:
 
@@ -24,4 +25,10 @@
 
 #### 📸 I love to do:
 
-- Photography, Competetive Programming, Travelling
+- Photography, Drawing Ambigrams, Competetive Programming, Travelling
+
+<a href="http://khanshaheb.me/">
+    <p align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=khanshaheb34&column=7&theme=onedark"/>
+    </p>
+</a>
