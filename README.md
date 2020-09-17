@@ -29,6 +29,6 @@
 
 <a href="http://khanshaheb.me/">
     <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=khanshaheb34&column=7&theme=onedark"/>
+        <img src="https://github-profile-trophy.vercel.app/?username=khanshaheb34&column=7&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET"/>
     </p>
 </a>
