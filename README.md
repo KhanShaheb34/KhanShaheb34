@@ -17,7 +17,6 @@
 #### 🌱 Currently learning:
 
 - Deep Learning, NLP
-- Laravel
 
 #### 💬 I can help you with:
 
