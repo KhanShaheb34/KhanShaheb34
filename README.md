@@ -6,6 +6,9 @@
 [![Instaagram Follow](https://img.shields.io/badge/%20-__KhanShaheb-black?color=14171A&labelColor=FD1D1D&logo=instagram&logoColor=ffffff)](https://www.instagram.com/_khanshaheb/)
 [![Twitter Follow](https://img.shields.io/badge/%20-@__KhanShaheb-black?color=14171A&labelColor=00acee&logo=twitter&logoColor=ffffff)](https://twitter.com/_khanshaheb)
 [![Email Address](https://img.shields.io/badge/%20-shakirul34@student.sust.edu-black?color=14171A&labelColor=D44638&logo=gmail&logoColor=fff)](mailto:delowardev@gmail.com)
+<a href="https://trackgit.com">
+<img src="https://sfy.cx/u/pBt" alt="trackgit-views" />
+</a>
 
 [<img align="right" width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhanShaheb34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>](http://khanshaheb.me/)
 
