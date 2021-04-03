@@ -17,15 +17,14 @@
 
 - A research on Bangla NLP
 - CodeHub: A modern online judge
-- SUST SWE Society Website
 
 #### 🌱 Currently learning:
 
-- Deep Learning, NLP
+- NLP
 
 #### 💬 Can help you with:
 
-- Javascript, React, Process automation, Basics of Deep Learning, Competetive Programming
+- Javascript, Python React, Process automation, Basics of Deep Learning, Competetive Programming
 
 #### 💚 Love to do:
 
