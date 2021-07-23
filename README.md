@@ -16,11 +16,10 @@
 #### 💻 Currently working on:
 
 - A research on Bangla NLP
-- CodeHub: A modern online judge
 
 #### 🌱 Currently learning:
 
-- NLP
+- Deep Learning, Natural Language Processing
 
 #### 💬 Can help you with:
 
