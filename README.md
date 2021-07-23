@@ -28,9 +28,3 @@
 #### 💚 Love to do:
 
 - Photography, Drawing Ambigrams, Competetive Programming, Travelling, Eating 😛
-
-<a href="http://khanshaheb.me/">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=khanshaheb34&column=7&theme=onedark"/>
-    </p>
-</a>
