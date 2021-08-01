@@ -17,16 +17,17 @@
 [![CoronaBD.info](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=Co-ronaBD.info&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/Co-ronaBD.info)[![vromon](https://github-readme-stats.vercel.app/api/pin/?username=rafiulgits&repo=vromon&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/rafiulgits/vromon)[![SWE-Society](https://github-readme-stats.vercel.app/api/pin/?username=sust-swe&repo=SWE-Society&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/sust-swe/SWE-Society)[![KhanShaheb34.github.io](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=KhanShaheb34.github.io&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/KhanShaheb34.github.io)
 
 
+### Deep Learning
+
+[![NumtaGAN](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=NumtaGAN&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/NumtaGAN)[![RabindraAI](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=RabindraAI&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/RabindraAI)
+
+
 ### Games
 
 [![Snake-Mania](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=Snake-Mania&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/Snake-Mania)[![Taos-Adventure](https://github-readme-stats.vercel.app/api/pin/?username=shaswata56&repo=Taos-Adventure&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/shaswata56/Taos-Adventure)[![Dodge-The-Box](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=Dodge-The-Box&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/Dodge-The-Box)[![AngryPigs](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=AngryPigs&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/AngryPigs)
 
 
-### Deep Learning
-
-[![NumtaGAN](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=NumtaGAN&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/NumtaGAN)[![RabindraAI](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=RabindraAI&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/RabindraAI)
-
-### Data Mining
+### Data Scraping
 
 [![ProthomAloScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=ProthomAloScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/ProthomAloScraper)[![BD-PratidinScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BD-PratidinScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BD-PratidinScraper)[![BanglaSongLyricsScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BanglaSongLyricsScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BanglaSongLyricsScraper)
 [![BanglaQuoteScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BanglaQuoteScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BanglaQuoteScraper)
@@ -34,22 +35,3 @@
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kfnouukuf7m7ahn58ukf" alt="trackgit-views" />
 </a>
-
-<!-- ***
-[<img align="right" width="450" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhanShaheb34&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>](http://khanshaheb.me/)
-
-#### 💻 Currently working on:
-
-- A research on Bangla NLP
-
-#### 🌱 Currently learning:
-
-- Deep Learning, Natural Language Processing
-
-#### 💬 Can help you with:
-
-- Javascript, Python React, Process automation, Basics of Deep Learning, Competetive Programming
-
-#### 💚 Love to do:
-
-- Photography, Drawing Ambigrams, Competetive Programming, Travelling, Eating 😛 -->
