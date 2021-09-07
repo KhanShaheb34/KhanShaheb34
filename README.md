@@ -32,6 +32,14 @@
 [![ProthomAloScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=ProthomAloScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/ProthomAloScraper)[![BD-PratidinScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BD-PratidinScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BD-PratidinScraper)[![BanglaSongLyricsScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BanglaSongLyricsScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BanglaSongLyricsScraper)
 [![BanglaQuoteScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BanglaQuoteScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BanglaQuoteScraper)
 
+## Coding Activity (On VS Code)
+
+| Coding Activity      | Languages |
+| ----------- | ----------- |
+| <img src="https://wakatime.com/share/@KhanShaheb34/8d383281-0676-4e4e-a74b-6518353d7337.svg" height="400" alt="CodingActivity"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/a8527b9c-20a8-4ea8-a35f-46bc3c694c7a.svg" height="400" alt="Languages"/>        |
+
+
+
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kfnouukuf7m7ahn58ukf" alt="trackgit-views" />
 </a>
