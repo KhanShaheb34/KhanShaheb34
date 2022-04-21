@@ -33,11 +33,11 @@
 [![ProthomAloScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=ProthomAloScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/ProthomAloScraper)[![BD-PratidinScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BD-PratidinScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BD-PratidinScraper)[![BanglaSongLyricsScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BanglaSongLyricsScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BanglaSongLyricsScraper)
 [![BanglaQuoteScraper](https://github-readme-stats.vercel.app/api/pin/?username=KhanShaheb34&repo=BanglaQuoteScraper&bg_color=211e1b&title_color=22C4E1&text_color=fff&icon_color=fff)](https://github.com/KhanShaheb34/BanglaQuoteScraper)
 
-## Coding Activity (Last 7 days on VS Code)
+<!-- ## Coding Activity (Last 7 days on VS Code)
 
 | Coding Activity      | Languages |
 | ----------- | ----------- |
-| <img src="https://wakatime.com/share/@KhanShaheb34/3b69f29e-79d0-49cc-8667-178370524eb5.svg" height="500" alt="CodingActivity"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/b237976c-7733-40ea-98c9-32b68554e6d8.svg" height="500" alt="Languages"/>        |
+| <img src="https://wakatime.com/share/@KhanShaheb34/3b69f29e-79d0-49cc-8667-178370524eb5.svg" height="500" alt="CodingActivity"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/b237976c-7733-40ea-98c9-32b68554e6d8.svg" height="500" alt="Languages"/>        | -->
 
 
 
