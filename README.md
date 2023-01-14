@@ -8,7 +8,7 @@ I am a full-stack software engineer who focuses mostly on the front end using Re
 
 - Solidity and Blockchain ⛓️
 - Designing sarge scale applications 🌏
-- AWS ☁️
+- Artificial Intelligence and Deep Learning 🤖
 
 ## Tools & Technologies
 
