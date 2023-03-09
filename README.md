@@ -25,8 +25,3 @@ I am a full-stack software engineer who focuses mostly on the front end using Re
 | ----------- | ----------- |
 | <img src="https://wakatime.com/share/@KhanShaheb34/3b69f29e-79d0-49cc-8667-178370524eb5.svg" height="500" alt="CodingActivity"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/b237976c-7733-40ea-98c9-32b68554e6d8.svg" height="500" alt="Languages"/>        | -->
 
-
-
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kfnouukuf7m7ahn58ukf" alt="trackgit-views" />
-</a>
