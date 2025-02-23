@@ -31,5 +31,5 @@ I'm a software engineer with over four years of professional experience in devel
 
 | **Categories**      | **OS** |
 | ----------- | ----------- |
-| <img src="https://wakatime.com/share/@KhanShaheb34/d025222d-c7c8-4983-80ca-cfa2fd977cb4.svg" height="500" alt="Categries"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/75696a46-1145-4d65-8a15-a68962ccee32.svg" height="500" alt="OS"/>        |
+| <img src="https://wakatime.com/share/@KhanShaheb34/d025222d-c7c8-4983-80ca-cfa2fd977cb4.svg" height="500" alt="Categries"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/42ff5ed6-8922-480d-8def-210372136d06.svg" height="500" alt="OS"/>        |
 
