@@ -24,7 +24,7 @@ I'm a software engineer with over four years of professional experience in devel
 
 ## Coding Activity (Last 30 days)
 
-| **Editors**      | **Languages** |
+| **Languages**      | **Editors** |
 | ----------- | ----------- |
 |  <img src="https://wakatime.com/share/@KhanShaheb34/c780145c-589d-4f32-b420-dc65d24a3094.svg" height="500" alt="Languages"/> | <img src="https://wakatime.com/share/@KhanShaheb34/0846c756-a3e2-4be9-a973-84821dbdf645.svg" height="500" alt="Editors"/>         |
 
