@@ -20,16 +20,10 @@ I'm a software engineer with over four years of professional experience in devel
 <img src="https://img.shields.io/badge/Data%20Science-3F3F3F?style=for-the-badge&logo=MusicBrainz&logoColor=FFFFFF">![badge-tensorflow](https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b)![badge-pytorch](https://img.shields.io/badge/pytorch-211e1b?style=for-the-badge&logo=pytorch&logoColor=22C4E1&labelColor=211e1b)![badge-numpy](https://img.shields.io/badge/numpy-211e1b?style=for-the-badge&logo=numpy&logoColor=22C4E1&labelColor=211e1b)![badge-pandas](https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b)
 
 
-
+<figure><embed src="https://wakatime.com/share/@KhanShaheb34/c47784df-8a00-4a96-bdd2-1bfc3c74c62c.svg"></embed></figure>
 
 ## Coding Activity (Last 30 days)
 
 | **Languages**      | **Editors** |
 | ----------- | ----------- |
-|  <img src="https://wakatime.com/share/@KhanShaheb34/c780145c-589d-4f32-b420-dc65d24a3094.svg" height="500" alt="Languages"/> | <img src="https://wakatime.com/share/@KhanShaheb34/0846c756-a3e2-4be9-a973-84821dbdf645.svg" height="500" alt="Editors"/>         |
-
-
-| **Categories**      | **OS** |
-| ----------- | ----------- |
-| <img src="https://wakatime.com/share/@KhanShaheb34/d025222d-c7c8-4983-80ca-cfa2fd977cb4.svg" height="500" alt="Categries"/>   | <img src="https://wakatime.com/share/@KhanShaheb34/42ff5ed6-8922-480d-8def-210372136d06.svg" height="500" alt="OS"/>        |
-
+|  ![languages](https://wakatime.com/share/@KhanShaheb34/3b6ceb20-5157-47b4-992d-d1e6fe7279dd.png) | ![editors](https://wakatime.com/share/@KhanShaheb34/238845c5-387a-467c-8247-e2f4780be321.png)         |
