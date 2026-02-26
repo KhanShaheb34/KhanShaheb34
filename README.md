@@ -24,7 +24,7 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 - 🐍 [Snake Mania](https://github.com/KhanShaheb34/Snake-Mania) - Snake game made with C++ and SFML
 
 
-## Tools & Technologies
+### Tools & Technologies
 
 <img src="https://img.shields.io/badge/Languages-3F3F3F?style=for-the-badge&logo=plex&logoColor=FFFFFF">![badge-typescript](https://img.shields.io/badge/typescript-211e1b?style=for-the-badge&logo=typescript&logoColor=22C4E1&labelColor=211e1b)![badge-rust](https://img.shields.io/badge/rust-211e1b?style=for-the-badge&logo=rust&logoColor=22C4E1&labelColor=211e1b)![badge-javascript](https://img.shields.io/badge/JavaScript-211e1b?style=for-the-badge&logo=JavaScript&logoColor=22C4E1&labelColor=211e1b)![badge-cpp](https://img.shields.io/badge/c%2B%2B-211e1b?style=for-the-badge&logo=c%2B%2B&logoColor=22C4E1&labelColor=211e1b)![badge-python](https://img.shields.io/badge/python-211e1b?style=for-the-badge&logo=python&logoColor=22C4E1&labelColor=211e1b)![badge-java](https://img.shields.io/badge/java-211e1b?style=for-the-badge&logo=mocha&logoColor=22C4E1&labelColor=211e1b)![badge-shell](https://img.shields.io/badge/Shell-211e1b?style=for-the-badge&logo=gnu-bash&logoColor=22C4E1&labelColor=211e1b) <br/>
 <img src="https://img.shields.io/badge/Front%20End-3F3F3F?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABpklEQVRIidWVvU4CURCFZwk/pRqjlY0WPgBIr7FXMMZarRTs5QmI8SHERxBfQ6lBlEpjYoI2mCCS8Fns3HCFy+5ibJhkszvnzD3DDnfPFZn18IJIICkiOb3SIrKi1IuI1ESkKiI3nud9T90Z2ANahMcTkJ9GOAZcWgJ9vX8AG0BWn20O4AKIRWlgxLvAKdDQ/NCqOVKsDhSAL9MkyliM+CaQ0bwNxK26uGIAaWBL1wDkJokndZ4AJ4qVNL9y1FeUO9e8oHkLf3OMLTjg/2Lf6Np/SvSdEB7jYwKaZqYW9q7YkqN+Wbm2haUVa7gadJSct7CeYilHfUq5noUtKNYxWPi+nRxBLjBwNXjV+5qFfep9ziFisI6FrY5oSdwi70VkXURqwKjYmwMzscg4eWce7DeoTlL4Q9yOIUDC2kmjH1rFUX+tXEnzouYPQMLZFshrURf/849qFdu6ZgDsBL4bviuCb2BF3GZ3rFgdOGNoduXQ4eHbtWkCv+06i9uuB0CZKHZtNcoBj4RHM2gsYUdmQkR2xfeWjAyPzGcZHplVz/P6kX/5zMUPgIndDZjgQjkAAAAASUVORK5CYII=&logoColor=FFFFFF">![badge-react](https://img.shields.io/badge/ReactJS-211e1b?style=for-the-badge&logo=react&logoColor=22C4E1&labelColor=211e1b)![badge-next](https://img.shields.io/badge/NextJS-211e1b?style=for-the-badge&logo=next.js&logoColor=22C4E1&labelColor=211e1b)![badge-styled-components](https://img.shields.io/badge/Styled%20Components-211e1b?style=for-the-badge&logo=styled-components&logoColor=22C4E1&labelColor=211e1b) <br/>
@@ -36,7 +36,7 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 
 <figure><embed src="https://wakatime.com/share/@KhanShaheb34/c47784df-8a00-4a96-bdd2-1bfc3c74c62c.svg"></embed></figure>
 
-## Coding Activity (Last 30 days)
+### Coding Activity (Last 30 days)
 
 | **Languages**      | **Editors** |
 | ----------- | ----------- |
