@@ -6,8 +6,9 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 
 ### Current Projects
 
-- 📖 [Montu Mia's System Design](https://montumia.com/) - Making complex system design concepts simple for everyone
+- 📔 [Montu Mia's System Design](https://montumia.com/) - Making complex system design concepts simple for everyone
 - ⏺️ [Ramble](https://ramble.audio/) - Your network, pooled-in `[Next.js / TypeScript]`
+- ⌨️ [Avro Silicon](https://github.com/KhanShaheb34/iAvro) - Avro modernized for M-series macs
 - 🔠 [Vocables](https://www.vocables.xyz/) - AI-powered vocabulary learning platform
 - 🎓 [Profreach](https://profreach.shakirul.dev/) - Professor outreach platform for higher studies
 - 📈 [trak](https://github.com/KhanShaheb34/trak) - A simple analytics tool `[Rust]`
