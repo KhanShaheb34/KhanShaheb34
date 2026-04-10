@@ -8,12 +8,14 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 
 - 📔 [Montu Mia's System Design](https://montumia.com/) - Making complex system design concepts simple for everyone
 - ⏺️ [Ramble](https://ramble.audio/) - Your network, pooled-in `[Next.js / TypeScript]`
+- 📈 [trak](https://www.trak.sh) - Link analytics and URL tracking platform `[Next.js / TypeScript]`
+- ⌨️ [type.win](https://type.win) - Arcade style typing game `[Tanstack Start / Typescript]`
+- 🖥️ [menubar](https://github.com/KhanShaheb34/menubar) - Claude Code skill for creating single-file macOS menubar apps `[SwiftUI]`
+- ✨ [ClaudeBar](https://github.com/KhanShaheb34/claudebar) - Menubar app showing Claude Code usage, stats, and model breakdown `[SwiftUI]`
 - ⌨️ [Avro Silicon](https://github.com/KhanShaheb34/iAvro) - Avro modernized for M-series macs
 - 🔠 [Vocables](https://www.vocables.xyz/) - AI-powered vocabulary learning platform
 - 🎓 [Profreach](https://profreach.shakirul.dev/) - Professor outreach platform for higher studies
-- 📈 [trak](https://www.trak.sh) - Link analytics and URL tracking platform `[Next.js / TypeScript]`
-- 🖥️ [menubar](https://github.com/KhanShaheb34/menubar) - Claude Code skill for creating single-file macOS menubar apps `[SwiftUI]`
-- ✨ [ClaudeBar](https://github.com/KhanShaheb34/claudebar) - Menubar app showing Claude Code usage, stats, and model breakdown `[SwiftUI]`
+
 
 
 ### Legacy Work
