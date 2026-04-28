@@ -37,12 +37,3 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 <img src="https://img.shields.io/badge/Database-3F3F3F?style=for-the-badge&logo=Redis&logoColor=FFFFFF">![badge-mongo](https://img.shields.io/badge/MongoDB-211e1b?style=for-the-badge&logo=MongoDB&logoColor=22C4E1&labelColor=211e1b)![badge-postgres](https://img.shields.io/badge/PostgreSQL-211e1b?style=for-the-badge&logo=postgresql&logoColor=22C4E1&labelColor=211e1b)![badge-mysql](https://img.shields.io/badge/MySQL-211e1b?style=for-the-badge&logo=mysql&logoColor=22C4E1&labelColor=211e1b) <br />
 <img src="https://img.shields.io/badge/DevOps-3F3F3F?style=for-the-badge&logo=iCloud&logoColor=FFFFFF">![badge-git](https://img.shields.io/badge/git-211e1b?style=for-the-badge&logo=git&logoColor=22C4E1&labelColor=211e1b)![badge-github](https://img.shields.io/badge/github-211e1b?style=for-the-badge&logo=github&logoColor=22C4E1&labelColor=211e1b)![badge-docker](https://img.shields.io/badge/docker-211e1b?style=for-the-badge&logo=docker&logoColor=22C4E1&labelColor=211e1b)![badge-vercel](https://img.shields.io/badge/vercel-211e1b?style=for-the-badge&logo=vercel&logoColor=22C4E1&labelColor=211e1b)![badge-gcloud](https://img.shields.io/badge/google%20cloud-211e1b?style=for-the-badge&logo=google-cloud&logoColor=22C4E1&labelColor=211e1b)<br />
 <img src="https://img.shields.io/badge/Data%20Science-3F3F3F?style=for-the-badge&logo=MusicBrainz&logoColor=FFFFFF">![badge-tensorflow](https://img.shields.io/badge/tensorflow-211e1b?style=for-the-badge&logo=tensorflow&logoColor=22C4E1&labelColor=211e1b)![badge-pytorch](https://img.shields.io/badge/pytorch-211e1b?style=for-the-badge&logo=pytorch&logoColor=22C4E1&labelColor=211e1b)![badge-numpy](https://img.shields.io/badge/numpy-211e1b?style=for-the-badge&logo=numpy&logoColor=22C4E1&labelColor=211e1b)![badge-pandas](https://img.shields.io/badge/pandas-211e1b?style=for-the-badge&logo=pandas&logoColor=22C4E1&labelColor=211e1b)
-
-
-<figure><embed src="https://wakatime.com/share/@KhanShaheb34/c47784df-8a00-4a96-bdd2-1bfc3c74c62c.svg"></embed></figure>
-
-### Coding Activity (Last 30 days)
-
-| **Languages**      | **Editors** |
-| ----------- | ----------- |
-|  ![languages](https://wakatime.com/share/@KhanShaheb34/3b6ceb20-5157-47b4-992d-d1e6fe7279dd.png) | ![editors](https://wakatime.com/share/@KhanShaheb34/238845c5-387a-467c-8247-e2f4780be321.png)         |
