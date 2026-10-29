@@ -10,6 +10,7 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 - ⏺️ [Ramble](https://ramble.audio/) - Your network, pooled-in `[Next.js / TypeScript]`
 - 📈 [trak](https://www.trak.sh) - Link analytics and URL tracking platform `[Next.js / TypeScript]`
 - ⌨️ [type.win](https://type.win) - Arcade style typing game `[Tanstack Start / Typescript]`
+- 🦥 [Sloth Notes](https://github.com/KhanShaheb34/SlothNotes) - Native macOS app for Markdown notes, tasks, and attachments `[Swift / AppKit]`
 - 🖥️ [menubar](https://github.com/KhanShaheb34/menubar) - Claude Code skill for creating single-file macOS menubar apps `[SwiftUI]`
 - ✨ [ClaudeBar](https://github.com/KhanShaheb34/claudebar) - Menubar app showing Claude Code usage, stats, and model breakdown `[SwiftUI]`
 - ⌨️ [Avro Silicon](https://github.com/KhanShaheb34/iAvro) - Avro modernized for M-series macs
