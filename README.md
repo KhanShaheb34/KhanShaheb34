@@ -6,6 +6,7 @@ I'm a full-stack software engineer and startup founder with over 4 years of expe
 
 ### Current Projects
 
+- 🌳 [gg](https://gg.shakirul.com) - Small, fast desktop Git client: commit graph, worktrees and pull requests `[Tauri / Rust / Svelte]`
 - 📔 [Montu Mia's System Design](https://montumia.com/) - Making complex system design concepts simple for everyone
 - ⏺️ [Ramble](https://ramble.audio/) - Your network, pooled-in `[Next.js / TypeScript]`
 - 📈 [trak](https://www.trak.sh) - Link analytics and URL tracking platform `[Next.js / TypeScript]`
